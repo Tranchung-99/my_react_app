@@ -1,19 +1,19 @@
-## my_react_app
+# my_react_app
 React app for remote control ros
 
-## Git basic command:
+# Git basic command:
 
-# Create a git repository:
+## Create a git repository:
 git init
 
-# adds a change in the working directory to the staging area
+## adds a change in the working directory to the staging area
 git add
 
-# commit changes
+## commit changes
 git commit -m "your commit "
 
-# add a Remote repository ( from your local repository )
+## add a Remote repository ( from your local repository )
 git remote add origin <your repository url>
 
-# push your change to the remote repository
+## push your change to the remote repository
 git push -u origin master
